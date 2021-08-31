@@ -5,12 +5,11 @@ $contactocolor: #1e4242;
 $bgcolorcontacto: #9ee0e0;
 $pcontacto: 20px;
 $bordecontacto: 2px solid #65d6a6;
-$pformulario: 40px 80px 20px 80px;
-$wformulario: 80%;
-$mlformulario: 70px;
+$pformulario: 40px 80px 20px 0px;
+$mlformulario: 20px;
 $wmapa: 100%;
 $hmapa: 100%;
-$pmapa: 40px 30px 30px 90px;
+$pmapa: 40px 30px 30px 30px;
 
 
 .tituloContacto {
@@ -25,7 +24,6 @@ $pmapa: 40px 30px 30px 90px;
 
 .formulario {
 	padding:$pformulario;
-	width:$wformulario;
 	margin-left:$mlformulario;
 }
 
