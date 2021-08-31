@@ -7308,7 +7308,9 @@ body {
   font-family: auto;
   text-align: justify;
   padding-right: 20px;
-  padding-left: 20px; }
+  padding-left: 20px;
+  background-color: #9ee0e0;
+  border: 5px solid #65d6a6; }
 
 .tituloEducate {
   padding-left: 20px;

@@ -4,6 +4,8 @@ $tjustificado: justify;
 $tpadding: 20px;
 $titulot: 35px;
 $negritati: bold;
+$bgtexto: #9ee0e0;
+$bordetexto: 5px solid #65d6a6;
 
 
 
@@ -14,14 +16,12 @@ $negritati: bold;
 	text-align:$tjustificado;
 	padding-right:$tpadding;
 	padding-left:$tpadding;
+	background-color:$bgtexto;
+	border:$bordetexto;
 }
 
 .tituloEducate {
 	padding-left:$tpadding;
 	font-size:$titulot;
 	font-weight:$negritati;
-}
-
-.sindromeTurner {
-
 }
