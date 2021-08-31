@@ -7314,3 +7314,15 @@ body {
   padding-left: 20px;
   font-size: 35px;
   font-weight: bold; }
+
+.enfermerosImg {
+  width: 100%; }
+
+.tituloPrinci {
+  font-size: 50px;
+  text-align: center;
+  padding: 20px;
+  color: #1e4242;
+  background-color: #9ee0e0;
+  font-family: fantasy;
+  border-bottom: 5px solid #65d6a6; }

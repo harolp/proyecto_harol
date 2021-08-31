@@ -1,0 +1,23 @@
+$widhtp: 100%;
+$tituprincipal: 50px;
+$titucentrado: center;
+$titupadding: 20px;
+$titucolor: #1e4242;
+$titubgcolor: #9ee0e0;
+$titufont: fantasy;
+$tituborde: 5px solid #65d6a6;
+
+
+.enfermerosImg {
+	width:$widhtp;
+}
+
+.tituloPrinci {
+	font-size:$tituprincipal;
+	text-align:$titucentrado;
+	padding:$titupadding;
+	color:$titucolor;
+	background-color:$titubgcolor;
+	font-family:$titufont;
+	border-bottom:$tituborde;
+}

@@ -1,0 +1,27 @@
+$ttamanho: 25px;
+$tfontfamily: auto;
+$tjustificado: justify;
+$tpadding: 20px;
+$titulot: 35px;
+$negritati: bold;
+
+
+
+
+.textoDescriptivo {
+	font-size:$ttamanho;
+	font-family:$tfontfamily;
+	text-align:$tjustificado;
+	padding-right:$tpadding;
+	padding-left:$tpadding;
+}
+
+.tituloEducate {
+	padding-left:$tpadding;
+	font-size:$titulot;
+	font-weight:$negritati;
+}
+
+.sindromeTurner {
+
+}
