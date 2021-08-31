@@ -6,6 +6,9 @@ $titulot: 35px;
 $negritati: bold;
 $bgtexto: #9ee0e0;
 $bordetexto: 5px solid #65d6a6;
+$height100: 100%;
+$width100: 100%;
+
 
 
 
@@ -24,4 +27,9 @@ $bordetexto: 5px solid #65d6a6;
 	padding-left:$tpadding;
 	font-size:$titulot;
 	font-weight:$negritati;
+}
+
+.card {
+	height:$height100;
+	width:$width100;
 }

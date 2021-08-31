@@ -7285,6 +7285,9 @@ body {
 .bloqueServicios {
   padding: 10px 20px 10px 40px; }
 
+.cardTextDescriptivo {
+  font-size: 15px; }
+
 .tituloContacto {
   font-size: 45px;
   text-align: center;
@@ -7316,6 +7319,10 @@ body {
   padding-left: 20px;
   font-size: 35px;
   font-weight: bold; }
+
+.card {
+  height: 100%;
+  width: 100%; }
 
 .enfermerosImg {
   width: 100%; }

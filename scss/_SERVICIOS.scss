@@ -5,6 +5,7 @@ $bordeservicios: 2px solid #65d6a6;
 $fontservicios: fantasy;
 $size45: 45px;
 $pbloqueservicios: 10px 20px 10px 40px;
+$size13: 15px;
 
 .tituloServicios {
 	color:$colorservicios;
@@ -18,4 +19,8 @@ $pbloqueservicios: 10px 20px 10px 40px;
 
 .bloqueServicios {
 	padding:$pbloqueservicios;
+}
+
+.cardTextDescriptivo {
+	font-size:$size13;
 }
